@@ -1,0 +1,5 @@
+Python Version: 3.11.4
+TensorFlow Version: 2.14.0
+Matplotlib Version: 3.7.1
+Streamlit Version: 1.27.0
+
