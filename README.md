@@ -54,4 +54,4 @@ streamlit run app.py
 
 ## **Open in Browser:**
 
-Navigate to http://localhost:8501 to interact with the application.
+Navigate to [http://localhost:8501](http://localhost:8510/) to interact with the application.
