@@ -4,7 +4,7 @@
 
 **This project focuses on creating an AI model for recognizing handwritten alphabets in both Hindi and English. The dataset is a combination of the Devanagari dataset for Hindi (excluding digits) and a separate dataset for English alphabets. The trained model is deployed as an interactive web app using Streamlit.**
 
-#**Dataset Creation**
+# **Dataset Creation**
 
 ## **Dataset**
 
