@@ -28,7 +28,7 @@
 
 # **Training and Accuracy**
 
-**The model is trained for 10 epochs, achieving an accuracy of approximately 97% on the validation set. Training history is visualized using Matplotlib and Seaborn.**
+**The model is trained for 10 epochs, achieving an accuracy of approximately 97% on the testing. Training history is visualized using Matplotlib and Seaborn.**
 
 # **Streamlit App**
 
