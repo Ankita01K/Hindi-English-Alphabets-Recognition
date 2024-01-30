@@ -2,7 +2,9 @@
 
 https://github.com/Ankita01K/Hindi-English-Alphabets-Recognition/assets/123232024/5eee85b5-121b-4cc8-8978-3bedaeed495f
 
+# Deployment
 
+**The recognition system is deployed on Render and can be accessed here** https://alphabets-recognition.onrender.com/
 
 ## **Overview**
 
