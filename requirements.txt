@@ -1,7 +1,7 @@
-keras:2.14.0
-TensorFlow Version: 2.14.0
-Matplotlib Version: 3.7.1
-Streamlit Version: 1.27.0
-NumPy version: 1.24.3
-Pillow version: 9.4.0
+keras==2.14.0
+TensorFlow Version==2.14.0
+Matplotlib Version==3.7.1
+Streamlit Version==1.27.0
+NumPy version==1.24.3
+Pillow version==9.4.0
 
